@@ -25,7 +25,7 @@ Contribuições e sugestões são bem-vindas! Se você encontrar um erro ou tive
 
 ## CONTATO
 
-- LinkedIn: https://www.linkedin.com/in/renilson-borges-vital-89a789138/
-- Email: profmatrb@gmail.com
+- LinkedIn: https://www.linkedin.com/in/renilsonvital/
+- Email: devreborges@gmail.com
 
 ---
